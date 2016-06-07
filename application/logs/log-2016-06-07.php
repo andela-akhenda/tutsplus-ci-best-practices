@@ -1,0 +1,16 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-06-07 18:25:27 --> The session cookie data did not match what was expected. This could be a possible hacking attempt.
+ERROR - 2016-06-07 18:25:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Program Files (x86)\Ampps\www\tuts+-ci-best-practices\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-06-07 18:25:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Program Files (x86)\Ampps\www\tuts+-ci-best-practices\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-06-07 18:25:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Program Files (x86)\Ampps\www\tuts+-ci-best-practices\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-06-07 18:25:34 --> Query error: No database selected
+ERROR - 2016-06-07 18:33:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Program Files (x86)\Ampps\www\tutsplus-ci-best-practices\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-06-07 18:33:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Program Files (x86)\Ampps\www\tutsplus-ci-best-practices\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-06-07 18:38:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Program Files (x86)\Ampps\www\tutsplus-ci-best-practices\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-06-07 18:38:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Program Files (x86)\Ampps\www\tutsplus-ci-best-practices\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-06-07 18:38:26 --> 404 Page Not Found --> 
+ERROR - 2016-06-07 18:41:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Program Files (x86)\Ampps\www\tutsplus-ci-best-practices\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-06-07 18:41:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Program Files (x86)\Ampps\www\tutsplus-ci-best-practices\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-06-07 18:42:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Program Files (x86)\Ampps\www\tutsplus-ci-best-practices\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2016-06-07 18:42:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Program Files (x86)\Ampps\www\tutsplus-ci-best-practices\system\database\drivers\mysql\mysql_driver.php 91
